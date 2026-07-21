@@ -103,3 +103,4 @@ int("fifteen" == "fifteen")
 my_age = 21
 my_intro = "Hello my name is rishi and I am " + str(my_age)
 print(my_intro)
+#str float bool and int all turn input into the desired type if it is possible
